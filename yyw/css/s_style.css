@@ -1,0 +1,50 @@
+/* CSS Document */
+.top{ border-bottom:1px solid #ececec;}
+.top_center{ height:30px; width:1000px; margin:0 auto;}
+.top_center .ship{ float:left; height:31px; width:108px; line-height:30px; background-color:#FFFFFF; text-align:center; position:relative; bottom:0; }
+.top_center .top_bars{ float:right;}
+.top_center .top_bars li{ float:left;  height:30px; line-height:30px;}
+.top_center .top_bars li a{ padding-left:18px;}
+.top_bars li span.jt_down{ margin-left:3px;}
+.header{ width:1000px; margin:0 auto; margin-top:20px; height:460px;}
+.header .header_left{ height:68px; width:102px; background:url(../demand/images/logo.png) no-repeat center; float:left;}
+.header .header_right{ height:50px; width:578px; float:right;}
+.header .header_right1{ height:27px; width:578px; background:url(../demand/images/6-鱿鱼网-购物车-空_03.png) no-repeat center;}
+.header .header_right2{ height:14px; width:578px; margin-top:9px;}
+.header .header_right2 .h_1{ margin:0 85px 0 40px; color:#C70B15;}
+.header .header_right2 .h_2{ margin:0 100px 0 0; color:#666;}
+.header .header_right2 .h_3{ margin:0 115px 0 0; color:#666;}
+.header .header_right2 .h_4{color:#666;}
+.header .header_down{width:363px; height:56px; margin:166px 0 0 300px; float:left;}
+.header .header_down img{ float:left;}
+.header .header_down a{ float:left; color:#666; width:250px; margin-left:15px;}
+.header .header_down span{ width:60px; height:22px; background-color:#C70B15; color:#FFFFFF; float:left; margin-top:10px; line-height:22px; text-align:center; margin-left:15px;}
+.nr{ height:300px; width:1000px; margin:0 auto;}
+.nr .nr_up{ height:30px; border-bottom:1px solid #dddddd;}
+.nr .nr_up h1{ height:30px; line-height:30px; color:#C70B15;}
+
+
+
+.footerbg{ height:130px; background-color:#EEEEEE; border-bottom:2px solid #ED0042}
+.footer{ width:1190px; height:44px; margin:0 auto; position:relative; top:44px;}
+.footer .item1{ width:240px; height:44px; float:left; margin-right:76px; background:url(../demand/images/icons/icon_1_17.png) no-repeat left;}
+.footer .item2{ width:240px; height:44px; float:left; margin-right:76px; background:url(../demand/images/icons/icon_1_20.png) no-repeat left;}
+.footer .item3{ width:240px; height:44px; float:left; margin-right:76px; background:url(../demand/images/icons/icon_1_23.png) no-repeat left;}
+.footer .item4{ width:240px; height:44px; float:left;  background:url(../demand/images/icons/icon_1_25.png) no-repeat left;}
+.footer h1{ height:44px; line-height:44px; font-size:21px; font-weight:bolder; margin-left:45px;}
+.footer1bg{ background-color:#F4F4F4; overflow:hidden;}
+.footer1{ width:1200px;  margin:0 auto; overflow:hidden；}
+.footer1bg .fo_left{ width:180px; height:240px; float:left;}
+.footer1bg .fo_right{ width:300px; height:240px; float:left;}
+.footer1bg  img{float:left; margin-top:40px; width:40px;}
+.footer1bg .fo_left h1{ float:left; width:140px; margin-top:41px; font-size:17px;}
+.footer1bg .fo_left a{ float:left; width:140px; margin-top:12px; font-size:13px;}
+.footer1bg .fo_right h1{ float:left; width:260px; margin-top:41px; font-size:17px;}
+.footer1bg .fo_right span{ float:left; width:80px; height:78px; background:url(../demand/images/QRCodes.png) no-repeat left; margin-top:12px;}
+.footer1bg .fo_right a{ float:left; margin-top:19px; width:133px; margin-left:10px;}
+.copyrightbg{ background-color:#F7F7F7}
+.footer1{color:#666;}
+.footer1 .links{ width:600px; margin:0 auto; padding:20px;  overflow:hidden}
+.footer1 .links a{ padding:0 18px;}
+.footer1 .icp{ width:600px; margin:0 auto; text-align:center;}
+.footer1 img{ margin:16px auto 70px auto;}
